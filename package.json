@@ -1,6 +1,6 @@
 {
   "name": "muthofun-sms-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A class for sending SMS notifications via an HTTP API.",
   "main": "dist/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "Shahria Jaman Khan",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.15.5",
     "typescript": "^5.0.2"
