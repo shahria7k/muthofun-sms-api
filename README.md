@@ -9,7 +9,7 @@ A class for sending SMS notifications via an HTTP API.
 ## Usage
 
 ```
-import SMSNotifier from 'send-sms';
+import SMSNotifier from 'muthofun-sms-api';
 
 const notifier = new SMSNotifier({ authToken: 'my-auth-token', apiUrl: 'https://sysadmin.muthobarta.com', });
 
