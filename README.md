@@ -4,7 +4,7 @@ A class for sending SMS notifications via an HTTP API.
 
 ## Installation
 
-`npm install send-sms`
+`npm install muthofun-sms-api`
 
 ## Usage
 
